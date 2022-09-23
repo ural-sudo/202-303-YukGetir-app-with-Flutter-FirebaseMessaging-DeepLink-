@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782271256065",
+    "project_id": "flutter-dynamic-link-54f34",
+    "storage_bucket": "flutter-dynamic-link-54f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782271256065:android:4f5e0723bec35a195c5200",
+        "android_client_info": {
+          "package_name": "com.example.yuk_getir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782271256065-pkldppb08qs2m7etvamor9fjoouc8g63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwMJ6owXkrpA7hn3_gwUsIghuIRC33_1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782271256065-pkldppb08qs2m7etvamor9fjoouc8g63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
